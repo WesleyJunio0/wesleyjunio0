@@ -1,17 +1,22 @@
-# Olá, eu sou o Wesley 👋
+# 👋 Olá, eu sou o Wesley
+🎓 Estudante de tecnologia com foco em me tornar um Engenheiro de Software.
+💻 Apaixonado por desenvolvimento web, design e aprendizado contínuo.
 
- Estudante de tecnologia, em busca de me tornar um <strong>Engenheiro de Software 💻🚀
-Apaixonado por desenvolvimento web, design e aprendizado contínuo.
+# 👨‍💻 Sobre mim
+🧠 Focado atualmente em Java, JavaScript, HTML e CSS
 
-### 👨‍💻 Sobre mim
-🧠 Atualmente focado em **HTML**, **CSS** e **JavaScript**  
-- 🎯 Estudando para me tornar um desenvolvedor **Full Stack**  
-- 📚 Aprendendo **APIs**, **banco de dados**, **estrutura de dados**, **UX/UI**, **design gráfico**  
-- ☕ Reaprendendo **Python** e iniciando com **Java** e **PHP**  
-- 🧪 Conta de estudos: [@Sleyd1](https://github.com/Sleyd1) – lá compartilho repositórios práticos e de aprendizado  
-- 🚀 Aqui você verá projetos com foco mais profissional e estruturado
+- 🗄️ Estudando bancos de dados, com ênfase em MongoDB
 
----
+- 🎯 Objetivo: atuar como Desenvolvedor Full Stack
+
+- 📚 Também aprendendo: APIs, estrutura de dados, UX/UI e design gráfico
+
+ - ☕ Reaprendendo Python e explorando PHP
+
+- 🧪 Conta de estudos: @Sleyd1 — repositórios práticos e experimentais
+
+🚀 Aqui você encontrará projetos mais estruturados e com foco profissional
+
 
 ### 🛠️ Tecnologias e ferramentas que estou usando/estudando
 
@@ -26,5 +31,3 @@ Apaixonado por desenvolvimento web, design e aprendizado contínuo.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
 
 ---
-
-Minha meta é clara: tornar-me um Engenheiro de Software.
