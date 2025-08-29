@@ -1,5 +1,4 @@
 # 👋 Olá, eu sou o Wesley
-# Olá, eu sou o Wesley! 👋
 
 Sou um desenvolvedor autodidata apaixonado por tecnologia, sempre buscando aprender algo novo e crescer tanto profissionalmente quanto pessoalmente.
 
