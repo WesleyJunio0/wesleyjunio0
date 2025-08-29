@@ -1,24 +1,36 @@
 # 👋 Olá, eu sou o Wesley
-🎓 Estudante de tecnologia com foco em me tornar um Engenheiro de Software.
-💻 Apaixonado por desenvolvimento web, design e aprendizado contínuo.
+# Olá, eu sou o Wesley! 👋
 
-# 👨‍💻 Sobre mim
-🧠 Focado atualmente em Java, JavaScript, HTML e CSS
+Sou um desenvolvedor autodidata apaixonado por tecnologia, sempre buscando aprender algo novo e crescer tanto profissionalmente quanto pessoalmente.
 
-- 🗄️ Estudando bancos de dados, com ênfase em MongoDB
+## 🚀 Sobre mim
 
-- 🎯 Objetivo: atuar como Desenvolvedor Full Stack
+- Comecei minha jornada na programação em 2020, durante a pandemia, aprendendo Python por conta própria.
+- Mesmo sem curso superior, sempre fui movido pela curiosidade e vontade de aprender, explorando o mundo da tecnologia por iniciativa própria.
+- Passei por desafios, como ficar sem computador por alguns anos, mas nunca deixei de estudar: absorvi conceitos de front-end pelo celular e retomei meus estudos em 2025 com um novo PC.
+- Atualmente, estou me aprofundando em desenvolvimento web, focando em **Next.js**, **React**, **JavaScript** e **TypeScript**.
+- Estou aprendendo sobre APIs, bancos de dados relacionais e não relacionais, buscando entender cada vez mais do ecossistema fullstack.
+- Minha grande motivação é me tornar um engenheiro de software experiente e conquistar uma vida melhor por meio da tecnologia.
 
-- 📚 Também aprendendo: APIs, estrutura de dados, UX/UI e design gráfico
+## 🛠️ Tecnologias & Ferramentas
 
- - ☕ Reaprendendo Python e explorando PHP
+- **Front-end:** JavaScript, React, Next.js (em aprendizado), TypeScript (básico)
+- **Back-end:** Java (básico)
+- **Bancos de dados:** Experiência com bancos relacionais e não relacionais
+- **Outros:** Python (primeira linguagem que aprendi)
 
-- 🧪 Conta de estudos: @Sleyd1 — repositórios práticos e experimentais
+## 💡 Projeto em Destaque
 
-🚀 Aqui você encontrará projetos mais estruturados e com foco profissional
+Atualmente, estou trabalhando em um projeto utilizando **Next.js** como forma de aprofundar meus conhecimentos em front-end moderno e APIs.
 
+## 📚 Sempre aprendendo
 
-### 🛠️ Tecnologias e ferramentas que estou usando/estudando
+Meu aprendizado é contínuo: gosto de entender o "porquê" das coisas e busco evoluir todos os dias, seja lendo documentação, praticando código ou ajudando outras pessoas que estão começando.
+
+---
+
+Sinta-se à vontade para acompanhar meus projetos e minha evolução por aqui! 😄
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
