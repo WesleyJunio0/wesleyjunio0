@@ -24,6 +24,13 @@ Desenvolvedor autodidata apaixonado por tecnologia. Desde 2020, estudo programa√
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyjunio0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+---
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Ashutosh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=WesleyJunio0&theme=dracula" />
+  </a>
+</div>
+
 Sinta-se √† vontade para acompanhar meus projetos!
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
