@@ -35,7 +35,6 @@ Sinta-se à vontade para acompanhar meus projetos e minha evolução por aqui! �
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
