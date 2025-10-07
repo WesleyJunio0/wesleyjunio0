@@ -4,7 +4,7 @@ Desenvolvedor autodidata apaixonado por tecnologia. Desde 2020, estudo programa�
 
 ## 🚀 Sobre
 
-- Experiência em **React** (avançado) e **SQL**
+- Experiência em **React** (intermediario) e **SQL**
 - Foco em desenvolvimento web: Next.js, JavaScript, TypeScript
 - Conhecimento em APIs, bancos de dados relacionais e não relacionais
 - Busco me tornar um engenheiro de software completo
